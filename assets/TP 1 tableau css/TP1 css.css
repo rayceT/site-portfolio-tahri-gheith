@@ -1,0 +1,34 @@
+H1 {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    color: rgba(0, 0, 255, 0.492);
+    bac
+}
+#clients{
+    border-width:1px; 
+    border-style:solid; 
+    border-color:rgba(9, 175, 3, 0.934);
+    width:50%;
+    border-collapse: collapse;
+}
+
+th {
+    color: aliceblue;
+    background-color: rgba(9, 175, 3, 0.934);
+    text-align: left;
+}
+
+.alt{
+    background-color: rgba(169, 169, 169, 0.214);
+}
+
+tr,td{
+    border-width: 0.5px;
+    padding-left: 3px;
+    border-style: solid;
+    border-color: rgba(9, 175, 3, 0.934);
+    text-align: left;
+}
